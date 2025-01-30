@@ -1,5 +1,4 @@
 # WEDSITE CREATE TO USE  HTML, CSS, JAVASCRIPT
-
 #output
 1.home page
 ![Screenshot (272)](https://github.com/user-attachments/assets/6766b8b3-f40c-45e3-8c3a-bf6d696748e7)
